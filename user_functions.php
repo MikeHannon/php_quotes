@@ -101,7 +101,7 @@ if (isset($_POST) && isset($_POST['process_to_occur']))
   }
 }
 
-header('Location:login.php');
+header('Location:user_index.php');
 exit();
 
 #quotes table
